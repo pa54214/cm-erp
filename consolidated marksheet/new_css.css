@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.hr.dark {
+  background-color: #000;
+}
+
+.container {
+  border: 2px solid black;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.table-borderless {
+  border-collapse: collapse;
+}
+
+.table-responsive {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-bordered {
+  border: 1px solid #dee2e6;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-start {
+  text-align: left;
+}
+
+.hr.dark {
+  background-color: #000;
+}
